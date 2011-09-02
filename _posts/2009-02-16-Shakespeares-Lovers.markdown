@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Shakespeare's Lovers
-category: writing, poetry
+category: writing
+published: false
 ---
 
 Meet me, my love, at evening's tide,

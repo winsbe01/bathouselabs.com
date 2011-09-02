@@ -1,7 +1,8 @@
 ---
 layout: post
 title: lament
-category: writing, poetry
+category: writing
+published: false
 ---
 
 i hatehatehate oh HATE

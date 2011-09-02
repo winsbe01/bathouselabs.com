@@ -1,7 +1,8 @@
 ---
 layout: post
 title: boy
-category: writing, poetry
+category: writing
+published: false
 ---
 
 Simple minded fool
