@@ -1,3 +1,9 @@
+---
+layout: dA
+title: Notepad Haikus -- About a Girl
+category: writing
+---
+
 She sends me on waves,
 Like the warm, sweet Atlantic,
 Of unmatched delight.

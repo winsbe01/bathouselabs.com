@@ -1,3 +1,9 @@
+---
+layout: dA
+title: she
+category: writing
+---
+
 She breathes through her nose
 The thin, lilting wisps of smoke
 The dragon exhales.

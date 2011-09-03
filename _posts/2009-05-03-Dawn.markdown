@@ -1,3 +1,9 @@
+---
+layout: dA
+title: Dawn
+category: writing
+---
+
 A dawn is a blue stick figure, 
 a rock dropped sharply thus, 
 sharply here.  

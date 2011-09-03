@@ -1,3 +1,9 @@
+---
+layout: dA
+title: (don't follow me)
+category: writing
+---
+
 (don't follow me) she said
 and i dragged along her coattails
 with my nose in the dirt,

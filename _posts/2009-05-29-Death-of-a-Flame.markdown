@@ -1,3 +1,9 @@
+---
+layout: dA
+title: Death of a Flame
+category: writing
+---
+
 When life begins, a single spark
 Jumps out to kiss a piece of bark
 And steadily, there comes a light

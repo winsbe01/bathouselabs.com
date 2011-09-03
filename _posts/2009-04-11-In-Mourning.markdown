@@ -1,3 +1,9 @@
+---
+layout: dA
+title: In Mourning
+category: writing
+---
+
 *for Emily Rachel Silverstein,
 may she find a peace unknown on this earth*
 
