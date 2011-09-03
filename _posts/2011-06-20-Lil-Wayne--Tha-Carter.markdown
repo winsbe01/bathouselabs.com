@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Lil' Wayne -- Tha Carter
 category: music
 ---

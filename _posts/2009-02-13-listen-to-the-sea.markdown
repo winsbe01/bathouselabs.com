@@ -1,8 +1,7 @@
 ---
-layout: post
-title: untitled
+layout: dA
+title: Too Long
 category: writing
-published: false
 ---
 
 Too long, I've come to listen to the sea

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Spoon -- Ga Ga Ga Ga Ga
 category: music
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Kings Of Leon -- Aha Shake Heartbreak
 category: music
 ---

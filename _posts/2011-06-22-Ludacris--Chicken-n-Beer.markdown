@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Ludacris -- Chicken 'n' Beer
 category: music
 ---

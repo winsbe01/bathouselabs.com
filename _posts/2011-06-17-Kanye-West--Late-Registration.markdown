@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Kanye West -- Late Registration
 category: music
 ---

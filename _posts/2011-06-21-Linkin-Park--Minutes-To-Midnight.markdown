@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Linkin Park -- Minutes To Midnight
 category: music
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tumblr
 title: Johnny Cash -- Now, There Was A Song
 category: music
 ---

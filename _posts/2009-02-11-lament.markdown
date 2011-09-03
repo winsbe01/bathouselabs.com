@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: dA
 title: lament
 category: writing
-published: false
 ---
 
 i hatehatehate oh HATE
