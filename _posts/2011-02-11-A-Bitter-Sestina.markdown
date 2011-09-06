@@ -1,3 +1,9 @@
+---
+layout: dA
+title: A Bitter Sestina
+category: writing
+---
+
 It's been a while since I read
 a good story, not one used
 to teach some backwards concept, under
@@ -30,7 +36,7 @@ it's hard to argue. When I am dead
 and gone, I don't expect my belief
 to outlive me, nor my words be read
 by anyone who doesn't wish to under-
-stand them. Words are not a objective rite
+stand them. Words are not an objective rite
 of passage, nor should they be used
 
 as such. Their appropriate use
