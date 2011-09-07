@@ -1,0 +1,5 @@
+# use glob syntax
+syntax: glob
+
+# ignore the _site output
+_site/*
