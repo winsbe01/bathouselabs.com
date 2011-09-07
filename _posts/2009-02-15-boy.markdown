@@ -4,6 +4,6 @@ title: boy
 category: writing
 ---
 
-Simple minded fool
-Spun around and tasted ground
+Simple minded fool <br />
+Spun around and tasted ground <br />
 Leaving rings of drool

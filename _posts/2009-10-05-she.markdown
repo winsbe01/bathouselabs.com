@@ -4,6 +4,6 @@ title: she
 category: writing
 ---
 
-She breathes through her nose
-The thin, lilting wisps of smoke
+She breathes through her nose <br />
+The thin, lilting wisps of smoke <br />
 The dragon exhales.

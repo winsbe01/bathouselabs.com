@@ -4,22 +4,22 @@ title: when all the stars are striving
 category: writing
 ---
 
-when all the stars are striving
-to silence(ing) the sound
-(with you, my love, i’m driving
+when all the stars are striving <br />
+to silence(ing) the sound <br />
+(with you, my love, i’m driving <br />
 my head into the ground)
 
-the moon sits softly, calling
-his rays in(to) a stream
-(with you, my love, i’m falling
+the moon sits softly, calling <br />
+his rays in(to) a stream <br />
+(with you, my love, i’m falling <br />
 apart at every seam)
 
-upon which stars, now frowning,
-draw pride from (dark)less fears
-(with you, my love, i’m drowning
+upon which stars, now frowning, <br />
+draw pride from (dark)less fears <br />
+(with you, my love, i’m drowning <br />
 in pools of my own tears) 
 
-the night, whose loving feeling
-falls quickly, (in)to death
-(with me, my love, you’re stealing
+the night, whose loving feeling <br />
+falls quickly, (in)to death <br />
+(with me, my love, you’re stealing <br />
 my every waking breath)

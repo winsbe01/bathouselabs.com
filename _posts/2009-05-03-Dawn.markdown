@@ -4,10 +4,10 @@ title: Dawn
 category: writing
 ---
 
-A dawn is a blue stick figure, 
-a rock dropped sharply thus, 
+A dawn is a blue stick figure, <br />
+a rock dropped sharply thus,  <br />
 sharply here.  
 
-A dawn is an ear and plenty, 
-plenty, this is the up, 
+A dawn is an ear and plenty, <br />
+plenty, this is the up, <br />
 up a root run.

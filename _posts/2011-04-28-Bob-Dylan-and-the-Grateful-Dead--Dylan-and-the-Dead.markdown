@@ -4,7 +4,7 @@ title: Bob Dylan & the Grateful Dead -- Dylan & the Dead
 category: music
 ---
 
-How do I put this...I like my Dylan like I like my women: blowin' in the wind. Oh, and as *far away from Jerry Garcia as humanly possible.* Sure, lots of people will tell you he was an amazing guitarist. Most of these people will also tell you about that one time when pink spiders crawled into their ears and, like, *ate their dreams, man.*
+How do I put this...I like my Dylan like I like my women: blowin' in the wind. Oh, and *as far away from Jerry Garcia as humanly possible.* Sure, lots of people will tell you he was an amazing guitarist. Most of these people will also tell you about that one time when pink spiders crawled into their ears and, like, *ate their dreams, man.*
 
 **Listen to it if:** you thought Bob Dylan could do no wrong.
 

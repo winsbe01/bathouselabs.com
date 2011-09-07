@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-<h2>all posts:</h2>
-<ul>
-    {% for post in site.posts %}
+<h2>recent posts:</h2>
+    <ul>
+        {% for post in site.posts limit:5 %}
         <li><a href="{{ post.url }}">{{ post.title }}</a>
         <div id='smalldate'>
-            &nbsp;&nbsp;&nbsp;&nbsp;...posted {{ post.date | date_to_string }} under {{ post.categories }}</li>
-        </div>
-    {% endfor %}
-</ul>
+            &nbsp;&nbsp;&nbsp;&nbsp;...posted {{ post.date | date_to_string }} under {{ post.categories }}</div></li>
+        {% endfor %}
+    </ul>
+<h3><a href='all.html'>...more</a></h3>

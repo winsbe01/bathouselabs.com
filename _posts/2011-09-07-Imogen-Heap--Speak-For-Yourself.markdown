@@ -2,6 +2,7 @@
 layout: post
 title: Imogen Heap -- Speak For Yourself
 category: music
+published: false
 ---
 
 Imogen Heap holds the very unique (and, one might say, privelaged) position of a (non-hip-hop) artist who's music is highly electronically processed, yet who's musicianship and compositions I regard as not only well layed out, but as a positive addition to my library. I'm not usually one for musicians who's music sounds more like sparks than vibrations. Come on nerds, you know what I'm saying. The first song of hers I heard was Hide and Seek, an absolutely georgeous, albeit trippy and heart-wrenchingly depressing, song that appears halfway through this album. I heard it as the music to a very powerful dance, and the two mediums lifted each other into an incredible performance, more so than either could do alone. Remembering that song, I had high hopes for this album.

@@ -4,26 +4,26 @@ title: (don't follow me)
 category: writing
 ---
 
-(don't follow me) she said
-and i dragged along her coattails
-with my nose in the dirt,
-breathing in her musky pheromones
+(don't follow me) she said <br />
+and i dragged along her coattails <br />
+with my nose in the dirt, <br />
+breathing in her musky pheromones <br />
 like angel dust.
 
-(trust in us) she cooed
-and my blisters popped
-thick pus into my battle scars,
-my feet bruised, head down 
+(trust in us) she cooed <br />
+and my blisters popped <br />
+thick pus into my battle scars, <br />
+my feet bruised, head down  <br />
 like a servant.
 
-(i love you) she offered
-and jumped on a sinking ship
-towards Eden, hungry
-for an apple, thirsty
+(i love you) she offered <br />
+and jumped on a sinking ship <br />
+towards Eden, hungry <br />
+for an apple, thirsty <br />
 for a snake.
 
-(what happened) she asked
-six-thousand-miles below,
-and me, i scratch at mirrors
-and reach for the scars
+(what happened) she asked <br />
+six-thousand-miles below, <br />
+and me, i scratch at mirrors <br />
+and reach for the scars <br />
 on my pale face.
