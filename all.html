@@ -1,0 +1,14 @@
+---
+layout: default
+title: Home
+---
+
+<h2>all posts:</h2>
+<ul>
+    {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a>
+        <div id='smalldate'>
+            &nbsp;&nbsp;&nbsp;&nbsp;...posted {{ post.date | date_to_string }} under {{ post.categories }}</li>
+        </div>
+    {% endfor %}
+</ul>
