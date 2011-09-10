@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Nonpoint - To The Pain
+title: Nonpoint -- To The Pain
 category: music
-published: false
 ---
 
 This album was quite enjoyable, I thought. It's pretty heavy, with a fair amount of
