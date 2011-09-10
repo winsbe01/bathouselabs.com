@@ -2,7 +2,6 @@
 layout: post
 title: Nicki Minaj -- Pink Friday
 category: music
-published: false
 ---
 
 Here it is, *Pink Friday*, the debut album from Young Money's latest superstar Nicki Minaj. After being featured by artists across the map in radio hits and album tracks, she finally gets her name own 17 tracks to play around with. She's proven her talent as a contributing artist, but how does she do in the hotseat?
