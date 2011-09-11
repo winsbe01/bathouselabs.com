@@ -2,11 +2,10 @@
 layout: post
 title: Christina Perri -- lovestrong
 category: music
-published: false
 ---
 
 I'm in love with this girl and this album. The passion she drips from each lyric, each
-piano run and chorus is just completely intoxicating and unforgettable. I bought a live
+piano run and chorus is just completely intoxicating and unforgettable. I bought an 
 EP of her live in the studio on a whim and was blown away, so I had to get this album 
 (and even paid more than I usually do for music to get it). Every one of her songs has got a
 soul that's addicting. Out of the 12 songs on the album, I think there's only one or two that
