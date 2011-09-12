@@ -2,20 +2,21 @@
 layout: post
 title: Modest Mouse -- We Were Dead Before The Ship Even Sank
 category: music
-published: false
 ---
 
 I really wanted to like this album. I really did. Here's why: my girlfriend and I
-have very similar tastes in music, with a few notable exceptions. She really enjoys 
+have very similar tastes in music, with a few notable exceptions.
+
+She really enjoys 
 The Decemberists, Death Cab For Cutie, and Modest Mouse. When we first met, I didn't want anything to 
-do with any of these groups. Over time, she's convinced me to come around on *The Decemberists,*
+do with any of these groups. Over time, she's convinced me to come around on The Decemberists,
 to the point where I now regularly listen to them. She's been trying to do the same for
-*Modest Mouse* for awhile now, and I've been resisting. But, up it came in the alphabet,
+Modest Mouse for awhile now, and I've been resisting. But, up it came in the alphabet,
 so I dutifully grabbed one of their albums and loaded it onto my player.
 
-I think what part of what makes me so resistive to Modest Mouse is the guy's voice. It
-feels like teenage girls squealing while dragging their fingernails across a chalkboard
-to my ears. It drives me absolutely insane. Their songs make me physically uncomfortable
+I think part of what makes me so resistive to Modest Mouse is the lead singer's voice. To my ears, it
+may as well be teenage girls squealing while dragging their fingernails across a chalkboard.
+It drives me absolutely insane. Their songs make me physically uncomfortable
 and angry. Just thinking about Float On solidifies my belief that God is dead, 
 because no benevolent creator would subject his children to such horrific torture.
 Even a vengeful God would say "Yo, hold up, that might be a *little* too far..."
