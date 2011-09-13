@@ -2,7 +2,6 @@
 layout: post
 title: Third Eye Blind -- Third Eye Blind
 category: music
-published: false
 ---
 
 You know those bands you love but never commit to? Like, you know who they are, you've heard their popular songs (and even some of their unpopular ones), you recognize their talent and you *like* them, for cryin' out loud, but for some reason, when given the choice, you never put on one of their albums?
@@ -14,3 +13,5 @@ But have I ever really *committed* to one of their albums? Dug my heels in, tune
 **Listen to it if:** you remember being 10 years old and singing along to Jumper on the radio.
 
 **Memorable Tunes:** London. There's feedback in the song! I didn't know TEB ever messed with sound like that; I thought it was more a grunge thing.
+
+[1]: http://www.purevolume.com/kapico "Best evarrr!"
