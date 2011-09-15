@@ -2,14 +2,13 @@
 layout: writing
 title: To Crumble, To Fall
 category: writing
-published: false
 ---
 
 With the whole world crumbling, our fingertips outstretched towards hazy skies, small clouds hovering like a child’s misty exhale on a cold November morning, mothers’ tears freezing on cheeks, brothers and sisters playing War in gardens amidst the proud sunflowers and lowly chrysanthemums, you and I, we pick this time to fall in love.
 
 Of every hour, every minute this lonely Earth knows, every possibility each fraction of a moment offers, we pick this time, a peak of despair, a crescendo of corruption, to fall haplessly, hopelessly in love.
 
-We were seventeen that May morning we met first, I an old boy, you a young woman, a nymph among your mortal peers.  We talked sparingly that day; you mentioned your name, I mine.  Little else was exchanged through spoken words, though our hearts did flutter in tune.  Your smile was gentle, your eyes so warm I could crawl in and stay forever, your hair long and thick.  To touch your hand was to hold close Mother Earth, and feel the heartbeat of all things pulse through my body.
+We were seventeen that May morning we first met, I an old boy, you a young woman, a nymph among your mortal peers.  We talked sparingly that day; you mentioned your name, I mine.  Little else was exchanged through spoken words, though our hearts did flutter in tune.  Your smile was gentle, your eyes so warm I could crawl in and stay forever, your hair long and thick.  To touch your hand was to hold close Mother Earth, and feel the heartbeat of all things pulse through my body.
 
 In three months time, I found the courage to kiss you, a kiss that rendered breaths of air and the heat of the sun irrelevant.  You spoke softly, placing the words delicately on my lips, that I could hear you even if I were deaf.  Our fingers locked together like a hinge, and our arms would swing on our nightly walks down dimly lit drives, past strong trees, gentle grass, and deeply breathing homes.
 
