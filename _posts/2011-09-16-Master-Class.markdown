@@ -2,7 +2,6 @@
 layout: writing
 title: Master Class
 category: writing
-published: false
 ---
 
 thirty one wet eyes <br />

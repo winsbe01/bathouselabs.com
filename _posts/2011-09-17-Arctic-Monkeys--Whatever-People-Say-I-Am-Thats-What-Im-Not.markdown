@@ -2,7 +2,6 @@
 layout: post
 title: Arctic Monkeys -- Whatever People Say I Am, That's What I'm Not
 category: music
-published: false
 ---
 
 I was very graciously introduced to the Arctic Monkeys a year or so ago when a band I was in at the time decided to play the song Old Yellow Bricks off the album *Favourite Worst Nightmare.* I must admit, while I did enjoy that song, I didn't see the whole hype around the band as a whole. *What hype?* Oh, they're English, so they're pretty hot across the pond. *But all their songs sound the same!* Yeah, I know, that's what I thought too, strangely disembodied voice who might represent a former self.
