@@ -11,7 +11,9 @@ This album wasn't what I was hoping for at all, which is extremely depressing se
 
 (Note: the above argument, which went on between me and <insert basically any name here>, will most likely merit a post of its own someday)
 
-Anyways, I originally bought a single on a whim (probably a sale or something) with two songs from the album on it, one featuring Jack White and one featuring Norah Jones. They were good tunes; not *amazing* (this should have given me a clue), but enjoyable.
+Anyways, I originally bought a single on a whim (probably a sale or something) with two songs from this album on it, one featuring Jack White and one featuring Norah Jones. They were good tunes; not *amazing* (this should have given me a clue), but enjoyable.
+
+See, my first experience with Dangermouse was on this record
 
 But it's Dangermouse. This is how I've come to know him. While that collaboration was all hip-hop (and neither Norah Jones nor Jack White have any credibility as emcees), I was still expecting the musicality and interest to carry over into this album. For me, it did not. Maybe it just wasn't my type of music.
 
