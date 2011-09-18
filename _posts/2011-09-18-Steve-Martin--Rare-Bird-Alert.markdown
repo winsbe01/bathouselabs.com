@@ -28,4 +28,4 @@ P.S. If you want to see another of Steve's artistry beyond acting, [read this][1
 
 **Listen to it if:** you thought Steve Martin was just a hack. Well, he's not, hater.
 
-**Memorable Tunes:** Athiests Don't Have No Songs. It's an a capella tune about athiests' unfortunate lack of songs, in comparison to the vast library of religious songs. It's hilarious, first of all. It's also an extremely talented a capella mix. (Note: Steve, while he's proven himself in so many other mediums, is not a very good singer. Sorry Steve.)
+**Memorable Tunes:** Atheists Don't Have No Songs. It's an a capella tune about atheists' unfortunate lack of songs, in comparison to the vast library of religious songs. It's hilarious, first of all. It's also an extremely talented a capella mix. (Note: Steve, while he's proven himself in so many other mediums, is not a very good singer. Sorry Steve.)
