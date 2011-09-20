@@ -1,3 +1,4 @@
+
 MGMT -- Oracular Spectacular
 
 I don't know if anyone else compares these two groups, but you already know how I feel about Techno/Electronica music. It's silly. Who's idea was it? I think I enjoyed about 2 songs on this album, if I stretch myself. I also think the vocalist sounds really...annoying.
