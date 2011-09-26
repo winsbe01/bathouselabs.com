@@ -1,0 +1,25 @@
+---
+layout: writing
+title: Two Cats
+category: writing
+---
+
+Red scarf, pink scarf, <br />
+Tied in a bow. <br />
+You're my pretty <br />
+Don't you know?
+
+Cool black cat <br />
+With pupils small, <br />
+Eyes of caramel, <br />
+Ears stand tall.
+
+Caramel cat <br />
+With eyes of blue. <br />
+Stripes run softly, <br />
+Two by two.
+
+No pale dishrag <br />
+Tied in a knot. <br />
+I'm your pretty, <br />
+You forgot.
