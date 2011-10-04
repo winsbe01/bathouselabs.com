@@ -1,8 +1,7 @@
 ---
-layout: writing
+layout: post
 title: The Beatles -- Rubber Soul
 category: music
-published: false
 ---
 
 This album serves as a turning point in the Fab Four's career, transitioning them from pop stars writing peppy love songs to infamous rock gods, drug-addled and writing musically interesting (yet depressing and abstract) songs destined to be performed, quoted, and admired the world over.
