@@ -3,3 +3,6 @@ syntax: glob
 
 # ignore the _site output
 _site/*
+
+# ignore draft posts (public repo)
+_drafts/*
