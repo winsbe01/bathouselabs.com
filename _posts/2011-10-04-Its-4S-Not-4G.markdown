@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: post
 title: It's 4S, Not 4G
 category: tech
 ---
@@ -8,19 +8,28 @@ In all the excitement and stir that surrounds any Apple event or product launch,
 
 (pause for effect)
 
-*Huh?* Yeah, well, everyone seems to think it is. Hell, everyone thought the iPhone 4 was a 4G phone, too. 
+*Huh?* Yeah, well, lots of people seem to think it is. Hell, [a good deal][1] of iPhone 4 owners thought that was a 4G phone, too. 
 
 So why isn't Apple trying to compete with these newfangled Android phones?
 
 Well, good question. Here's some thoughts I've come up with.
+
 1. **4G has spotty coverage.** It's still a fairly new technology that is expensive and time consuming to install. I'm on Sprint, who supposedly has the country's "favorite 4G network" (according to their advertising). Well, I don't know how you can play favorites with something as intangible as a 4G network, but regardless, it's pretty fast. Problem is, it doesn't work everywhere. In fact, it doesn't work a lot of places. Sure, it's great in a big city, but the farther out you get, the worse the service is (of course). I've heard great things about Verizon's LTE network too, but I can't imagine their coverage is drastically better than Sprint's. 
 
-    Now, Apple is all about control over the experience of their products (hence how locked down everything is), so this poses a problem for them. What if the iPhone 4S *was* a 4G phone? What if John Q. Capitalist of East Bumblefuck, Tennesee were to purchase one, only to find that he his phone didn't work worth shit when he's calling relatives from his living room. What recieves the first blame for phone problems? The phone. Apple doesn't want to lose their valuable customers over some uncontrollable variable like a network's performance. Which makes me wonder why they stayed exclusive with AT&T for so long, given the sheer volume of customer anger thrown their way.
+    Now, Apple is all about control over the experience of their products (hence how locked down everything is), so this poses a problem for them. What if the iPhone 4S *was* a 4G phone? What if John Q. Capitalist of East Bumblefuck, Tennessee were to purchase one, only to find that he his phone didn't work worth shit when he's calling relatives from his living room. What receives the first blame for phone problems? The phone. Apple doesn't want to lose their valuable customers over some uncontrollable variable like a network's performance. Which makes me wonder why they stayed exclusive with AT&T for so long, given the sheer volume of customer anger thrown their way.
 
-2. **4G eats through batteries like no one's business.** People's main complaint about *all* portable electronics with rechargable batteries (phone, tablet, laptop, etc.) is how quickly it dies. Apple has a history of putting out products with good battery life (advertised, mind you), a claim which would be completely torn down if you introduced 4G into the equation. Instead of the advertised 6 hours of battery life for 3G surfing, it would likely be much less than half, which is an unacceptable metric (I imagine) in Apple's eyes.
+2. **4G eats through batteries like no one's business.** People's main complaint about *all* portable electronics with rechargeable batteries (phone, tablet, laptop, etc.) is how quickly it dies. Apple has a history of putting out products with good battery life (advertised, mind you), a claim which would be completely torn down if you introduced 4G into the equation. Instead of the advertised 6 hours of battery life for 3G surfing, it would likely be much less than half, which is an unacceptable metric (I imagine) in Apple's eyes.
 
 3. **What the hell is 4G, anyways?** You know, there is no 4G standard. 2G and 3G are both standards. 4G (as we know it today) is just an abbreviation for "Dude, it's like, faster than 3G cause it's a 4, 'kay brah?" Realistically, it's a terse yet misleading way to describe a network's capabilities. If my 4G is not equal to your 4G because there is no "You must be at least X fast to call yourself 4G" yardstick, we're both liars.
 
     As an addendum, Apple hasn't always stuck strictly to standards in their products (Firewire, anyone?). However, this is usually an effort to push a standard into the industry, which doesn't always work, so that argument doesn't really apply well here.
 
 In conclusion, did Apple make a fatal flaw in releasing a non-4G phone? I don't think they did. I think it was actually a very calculated and intelligent move. Plus, since most people believe it's 4G anyways and are happy with its performance, it probably won't turn people into a 4G-coveting Android.
+
+<div id="smalldate">
+Discuss this further on <a href="http://news.ycombinator.com/item?id=3073494">Hacker News</a>
+</div>
+
+[1]: http://www.retrevo.com/content/blog/2011/07/confusion-and-skepticism-may-impede-4g-adoption "Interesting analysis"
+
+[hn]: http://news.ycombinator.com/item?id=3073494
