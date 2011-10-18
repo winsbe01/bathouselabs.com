@@ -10,3 +10,5 @@ Ben
 {% for post in site.posts limit: 1 %}
 [1]: http://bathouselabs.com{{ post.url }}
 {% endfor %}
+
+test
