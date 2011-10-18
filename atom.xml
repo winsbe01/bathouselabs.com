@@ -18,11 +18,11 @@ layout: nil
     <entry>
         <id>http://bathouselabs.com{{ post.id }}</id>
         <link type="text/html" rel="alternate" href="http://bathouselabs.com{{ post.url }}"/>
-        <title>{{ post.title }}</title>
+        <title>{{ post.title | xml_escape }}</title>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
             <name>Ben Winston</name>
-            <uri>http://bathouselabs.com/</uri>
+            <uri>http://bathouselabs.com</uri>
         </author>
         <content type="html">{{ post.content | xml_escape }}</content>
     </entry>
