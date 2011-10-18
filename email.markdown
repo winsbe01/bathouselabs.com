@@ -11,4 +11,3 @@ Ben
 [1]: http://bathouselabs.com{{ post.url }}
 {% endfor %}
 
-test
