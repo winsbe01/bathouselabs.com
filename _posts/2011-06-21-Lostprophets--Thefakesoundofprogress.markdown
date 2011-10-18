@@ -1,5 +1,5 @@
 ---
-layout: tumbr
+layout: tumblr
 title: Lostprophets -- Thefakesoundofprogress
 category: music
 ---
