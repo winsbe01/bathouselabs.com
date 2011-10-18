@@ -2,6 +2,7 @@
 layout: post
 title: Kyuss -- Sky Valley
 category: music
+gist: As I mentioned the other day, I've been on a bit of a Queens of the Stone Age bender recently. And by recently, I mean for the past eight months or so. It's really kind of a problem.
 ---
 
 [As I mentioned][rok] the other day, I've been on a bit of a Queens of the Stone Age bender recently. And by recently, I mean for the past eight months or so. It's really kind of a problem. Anyways, I thought I better clarify myself; it's not so much a Queens bender as it is a Josh Homme bender. Mr. Homme (which may be pronounced "uomm" like the French, or "homie" like the...English?) is the lead singer/guitarist, primary songwriter, and the only permanent member of Queens. I've become an avid fan of his unique style, and have listened to and enjoyed all five of Queens' studio albums as well as Them Crooked Vultures, a supergroup featuring Homme on guitars and vocals, Led Zeppelin's John Paul Jones on bass, and Dave Grohl of Nirvana and Foo Fighters on drums. (Incidental side note: Grohl played drums on *Songs for the Deaf,* one of the more popular Queens of the Stone Age albums). So, with all this Homme love going on, it was only a matter of time before I made my way around to Kyuss, Homme's first band and the group which pioneered the "stoner rock" genre.
