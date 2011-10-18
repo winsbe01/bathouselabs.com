@@ -2,6 +2,7 @@
 layout: post
 title: It's 4S, Not 4G
 category: tech
+gist: In all the excitement and stir that surrounds any Apple event or product launch, the world has skated over something very important -- the iPhone 4S is <em>not</em> a 4G phone.
 ---
 
 In all the excitement and stir that surrounds any Apple event or product launch, the world has skated over something very important -- the iPhone 4S is *not* a 4G phone.

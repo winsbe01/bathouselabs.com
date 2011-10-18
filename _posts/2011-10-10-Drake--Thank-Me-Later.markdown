@@ -2,6 +2,7 @@
 layout: post
 title: Drake -- Thank Me Later
 category: music
+gist: Gotta say, I'm more than a little disappointed. Drake has two, uh, talents, I guess, according to popular opinion. According to <em>my</em> opinion (which is the only one that gets out in these posts), one of them is not really a talent. More of an annoyance, actually.
 ---
 
 Gotta say, I'm more than a little disappointed. Drake has two, uh, talents, I guess, according to popular opinion. According to *my* opinion (which is the only one that gets out in these posts), one of them is not really a talent. More of an annoyance, actually.
