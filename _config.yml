@@ -1,1 +1,2 @@
 exclude: _drafts, email.sh
+markdown: rdiscount
