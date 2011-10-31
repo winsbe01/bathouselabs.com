@@ -2,6 +2,7 @@
 layout: post
 title: A Personal Challange
 category: writing
+gist: Maybe I'm crazy, but I'm probably just crazy.
 ---
 
 Although I've failed to update this site in the last week or so, I thought I'd publicly announce something, if only to find public shame for not finishing, and using that factor as a motivator for forward progress.
