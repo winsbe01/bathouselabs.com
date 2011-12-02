@@ -2,9 +2,8 @@
 layout: writing
 title: Nano Progress - Week Three
 category: writing
+gist: Oh, this tension, it pulls at my brain-bits.
 ---
-
-Oh, this tension, it pulls at my brain-bits.
 
 Just this evening, I crossed a milestone. I have written 25,000 words of a concrete, fictional story. Twenty five thousand words. Just hearing that phrase in my head, twenty five thousand words, feels an awful lot like a huge sack of bricks dropping from nowhere onto me like I took a wrong turn somewhere and walked onto a Monty Python set.
 
@@ -18,7 +17,7 @@ I do have some fantastic excuses, though, which totally make up for it (right?).
 
 Anyways, despite my arsenal of Perfectly Legitimate Excuses, the fact is I'm still behind and it sucks. I'm supposed to hit 30k today, and I'm cringing at the thought of pushing for 26.
 
-What's impressive (read: probably stupid) about this whole process is every one of the 25,000ish words has been written either on a typewriter or by hand. So I have a lovely stack of 40 single-sided pages with quarter-inch or so margins filled with word vomit that I'm sure will make lovely kindling someday. It's nice to have something physical to hold at the end of each writing session: I wrote *this* much today (holds up pathetic sheet or two). My fingers sure do hurt though. And it's loud, so my neighbors probably hate me. It's also a lot slower than typing on a computer. Other complaints too, probably.
+What's impressive (read: probably stupid) about this whole process is every one of the 25,000ish words has been written either on a typewriter or by hand. So I have a lovely stack of 40 single-sided pages with quarter-inch or so margins filled with word vomit that I'm sure will make fantastic kindling someday. It's nice to have something physical to hold at the end of each writing session: I wrote *this* much today (holds up pathetic sheet or two). My fingers sure do hurt though. And it's loud, so my neighbors probably hate me. It's also a lot slower than typing on a computer. Other complaints too, probably.
 
 While I have made it to the halfway point by manual process alone, I'm not sure how much longer that venture will continue. I'm traveling for Thanksgiving, and I'm not sure what the TSA's stance is on typewriters. I could always continue to write by hand, but not only is that even slower than the typewriter, I also have miserable handwriting.
 
